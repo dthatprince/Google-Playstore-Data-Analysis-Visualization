@@ -1,9 +1,9 @@
-Analysis Of Play Store Data
+Analysis Of Google Playstore Data
  
 - Cleaning the Data :
-#Cleaning Reviews Column
-#Cleaning Size column
-#Cleaning installs column
-#Cleaning price column
+1. Cleaning Reviews Column
+2. Cleaning Size column
+3. Cleaning installs column
+4. Cleaning price column
 
 - Data visuvalizations (Using Seaborn and Plotly)
