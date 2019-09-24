@@ -7,3 +7,5 @@
 4. Cleaning price column
 
 - Data visuvalizations (Using Seaborn and Plotly)
+
+The Play Store Apps Data has the potential to drive App-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market.
